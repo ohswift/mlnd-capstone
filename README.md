@@ -49,11 +49,10 @@
 ## 文件说明
 
 * project-final.ipynb 项目完整源码
-
 * project-final.html 项目导出html
-
+* data_process.ipynb 数据处理相关
+* data_process.html 数据处理相关网页
 * pred-final.csv 生成预测数据，``kaggle``测试0.0493
-
 * report.pdf 毕业报告
 
 
